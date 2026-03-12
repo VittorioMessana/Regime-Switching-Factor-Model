@@ -29,5 +29,5 @@ A quantitative research project implementing a Hidden Markov Model (HMM) to dete
 - scikit-learn — factor construction
 - matplotlib / seaborn — visualisation
 
-## Author
+ Author
 Vittorio Messana, 2026
